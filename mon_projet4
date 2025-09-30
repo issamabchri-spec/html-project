@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> PERSO INFORMATIONS</title>
+</head>
+<body>
+<form action="#" method="post">
+<fieldset>
+    <legend> contactez-nous svp</legend>
+    <label for="nom">Nom :</label>
+    <input type="text" id="nom" name="nom" aria-label="Nom complet" required>
+    <br>   <br>
+    <label for="email">E-mail :</label>
+    <input type="email" id="email" name="email" aria-label="Adresse e-mail" required>
+    <br>  <br>
+    <label for="tel">Téléphone :</label>
+    <input type="tel" id="tel" name="tel" pattern="[0-9]{10}" title="10 chiffres attendus" aria-label="Numéro de téléphone">
+     
+<br>  <br>
+    <label for="message">Message :</label>
+    <textarea id="message" name="message" rows="5" required></textarea>
+
+<button type="submit">Envoyer</button>
+</fieldset>
+</form>
+</body>
+</html>
