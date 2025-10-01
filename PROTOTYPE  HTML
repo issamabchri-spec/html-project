@@ -1,13 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head> 
-    <style>
-
-        img{
-            object-fit: contain;
-            width: 50%;
-        }
-    </style>
+    
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
@@ -15,7 +9,7 @@
 <body>
     <header>
         <h1> ISSAM ABACHRI, 19 YEARS OLD</h1>
-        <img src="Menschen.jpg"  alt="photo de profil ">
+        <img src="Menschen.jpg" width="300" alt="photo de profil ">
     </header>
     <h2> About me! </h2>
     <p>I was born in tangier in 2005, one of the most beautiful cities in the world,
@@ -52,4 +46,4 @@
         </footer>
 
 </body>
-</html>
+</html
