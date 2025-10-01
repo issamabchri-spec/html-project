@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+    <style>
+
+        img{
+            object-fit: contain;
+            width: 50%;
+        }
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <h1> ISSAM ABACHRI, 19 YEARS OLD</h1>
+        <img src="Menschen.jpg"  alt="photo de profil ">
+    </header>
+    <h2> About me! </h2>
+    <p>I was born in tangier in 2005, one of the most beautiful cities in the world,
+        I love reading, and I enjoy coding as well,
+         I do spend my free time in a chill way,
+          and that's all you need to know about me</p>
+          <ul>
+            <li> NAME: ISSAM ABACHRI</li>
+           <li>  AGE: 19 YEARS OLD   </li>  
+           <li>  Phone number: 0783468237   </li> 
+           <li>  Email: issamcodes@gmail.com   </li>       
+        </ul>
+        <h2> MY CODING SKILLS</h2>
+        <table border="4">
+        <tr>
+            <td>HTML</td>
+            <td>normal</td>
+        </tr>
+        <tr>
+            <td>CSS</td>
+            <td>normal</td>
+        </tr>
+        <tr>
+            <td>JAVA SCRIPT</td>
+            <td> normal</td>
+        </tr>
+        </table>
+           <br> <br> 
+        
+        <h3> This is my github's link</h3>   <footer>
+            <nav>
+               <a href="https://github.com/issamabchri-spec"> MY GITHUB LINK</a> 
+            </nav>
+        </footer>
+
+</body>
+</html>
